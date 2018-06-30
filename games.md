@@ -1,11 +1,12 @@
 ### Games Being Played Now
 
-- The Swapper
+- Marquess of Notoriety Demo
 - Majikoi
 - Symphonic Rain (VN) (on hold)
 - Overcooked
 - Deus Ex 1
 - Disgaea 5
+- whatifadventuretimewasa3danime
 
 ### 'Free' games (mostly for PC):
 
@@ -34,6 +35,10 @@ Will add links later. For now, use google. Games are vaguely ordered in how much
 -   [**Ib**](http://vgboy.dabomstew.com/other/ib.htm) \- Highly Recommended
 
     -   a horror/puzzle game. Better described at the english translation website. I suggest using a walkthrough after you have finished it once to see what you missed/didn't miss or if you get stuck. Now that I think about it, it was quite beautiful.
+
+-   **[Embric of Wulfhammer's Castle](https://aeresland.net/)** Moderately Recommended
+    -   "Embric of Wulfhammer's Castle is a "sprite opera" made by Saint Bomber in RPG Maker 2003."
+    -   When you get stuck (believe me, you will), you can use this [Google Doc Walkthrough](https://docs.google.com/document/d/1x3_9cWCMpCgdyiIiVNx4iIvOCfJMbKgfYOIz4zmSZVw/)
 
 ### Paid games:
 
@@ -78,6 +83,11 @@ Will add links later. For now, use google. Games are vaguely ordered in how much
     - I recommend this to pretty much everyone. Mainly a story driven experience.
 
 ### Games Played (date order)
+
+-   Embric of Wulfhammer's Castle
+-   Subnautica
+-   The Swapper
+
 -   Ori and the Blind Forest
 -   VA-11 Hall-A KIDS!
 -   Finding Paradise
