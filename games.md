@@ -1,13 +1,13 @@
 ### Games Being Played Now
 
+- Braid
+- Reccetear
 - Rakuen
 - Marquess of Notoriety Demo
 - Majikoi
 - Symphonic Rain (VN) (on hold)
-- Overcooked
 - Deus Ex 1
 - Disgaea 5
-- whatifadventuretimewasa3danime
 
 ### 'Free' games (mostly for PC):
 
@@ -89,6 +89,9 @@ Will add links later. For now, use google. Games are vaguely ordered in how much
 
 ### Games Played (date order)
 
+-   Ibb and Obb
+-   Overcooked
+-   whatifadventuretimewasa3danime
 -   Embric of Wulfhammer's Castle
 -   Subnautica
 -   The Swapper
