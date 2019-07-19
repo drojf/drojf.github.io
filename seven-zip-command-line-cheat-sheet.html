@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta http-equiv="last-modified" content="Fri, 30 May 2014 02:27:27 GMT" />
+	<title>drojf</title>
+	<link rel="stylesheet" href="static\main.css" type="text/css" />
+</head>
+<body>
+<div id="content">
+<h1> 7-zip Cheatsheet </h1>
+<pre>
+7-zip command line notes:
+
+7za a graph2.7z ./folder_to_compress/* -mqs -mx=9 -ms=on -md256m
+
+Use "./folder_to_compress/*" to not include the folder itself (a relative path)
+Use "folder_to_compress" if you wish to include the folder in the archive
+
+Use -mqs to order files by file type instead of filename in some circumstances to improve compression.
+see the 'qs' option here: https://sevenzip.osdn.jp/chm/cmdline/switches/method.htm
+
+Use -mx=9 to set 'Ultra' compression ratio
+Use -ms=on to create a solid archive
+Use -md[SIZE]m to set the dictionary size - 7zip will tell you immediately if you don't have enough ram
+</pre>
+
+<a href="index.html">Go Back</a>
+
+</div>
+</body>
+</html>
