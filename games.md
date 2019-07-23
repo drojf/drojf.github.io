@@ -2,8 +2,7 @@
 
 ## Games Being Played Now
 
-- Yakuza Kiwami
-- Rimworld
+- Morrowind?
 - Rakuen
 - Marquess of Notoriety Demo
 - Majikoi
@@ -12,7 +11,7 @@
 
 ## Favorite 'Free' games
 
-Will add links later. For now, use google. Games are vaguely ordered in how much they are worth your time.  
+Games are vaguely ordered in how much they are worth your time.
 
 - [**Juniper's Knot (Steam Page)**](https://store.steampowered.com/app/687590/Junipers_Knot/) - Highly Recommended
   - A short, English visual novel. Can finish in one sitting (20-40mins? not sure how long). Should be played in the middle of the night with the lights off with decent headphones/speakers (it's NOT a horror game - this is just for setting the atmosphere). For PC AND iOS!
@@ -23,30 +22,33 @@ Will add links later. For now, use google. Games are vaguely ordered in how much
   - There is a version on Switch/Steam with upgraded graphics, but many prefer the original free version. The steam version is [here](https://store.steampowered.com/app/200900/Cave_Story/) (not free!)
 
 - **Mother 3** - Highly Recommended
+  - Give it a go, even if you don't usually play RPGs (I usually don't, but I still enjoyed this game immensely). Technically, this game is not free, but the only way for you to play it these days is free through an emulator (there was never any official English release!).
 
-  - Give it a go, even if you don't usually play RPGs (I usually don't, but I still enjoyed this game immensely). Technically, this game is not free.
+- [**Ib**](http://vgboy.dabomstew.com/other/ib.htm) \- Highly Recommended
+  - a horror/puzzle game. Better described at the english translation website. I suggest using a walkthrough after you have finished it once to see what you missed/didn't miss or if you get stuck. Now that I think about it, it was quite beautiful.
 
-- [**Tyrian**](https://bitbucket.org/opentyrian/opentyrian/wiki/Home) 
+- [**Embric of Wulfhammer's Castle**](https://aeresland.net/) Recommended
+  - "Embric of Wulfhammer's Castle is a "sprite opera" made by Saint Bomber in RPG Maker 2003."
+  - When you get stuck (believe me, you will), you can use this [Google Doc Walkthrough](https://docs.google.com/document/d/1x3_9cWCMpCgdyiIiVNx4iIvOCfJMbKgfYOIz4zmSZVw/)
+  - I initially rated this "Moderately Recommended", but looking back, I really do like it, and it's still very memorable after a long period of time.
 
+- [**Tyrian**](https://bitbucket.org/opentyrian/opentyrian/wiki/Home)
   - Old shoot'em up, now free due the original licences being nice. Google OpenTyrian for downloads - no need to run on dosbox since it was ported to x86
 
 - [**Osu!**](https://osu.ppy.sh/)
-
   - Rhythm game (basically Elite Beat Agents), very fun as no thinking is required. May injure your wrist if you play using a mouse. [my osu! page](http://osu.ppy.sh/u/drojf "My osu page. osu is a game like elite beat agents. or so i've heard.")
-  - If you experience visual lag on Intel integrated graphics, disable Speedstep (ie make your CPU run at max clock speed constantly)! 
-
-- [**Ib**](http://vgboy.dabomstew.com/other/ib.htm) \- Highly Recommended
-
-  - a horror/puzzle game. Better described at the english translation website. I suggest using a walkthrough after you have finished it once to see what you missed/didn't miss or if you get stuck. Now that I think about it, it was quite beautiful.
-
-- **[Embric of Wulfhammer's Castle](https://aeresland.net/)** Moderately Recommended
-  - "Embric of Wulfhammer's Castle is a "sprite opera" made by Saint Bomber in RPG Maker 2003."
-  - When you get stuck (believe me, you will), you can use this [Google Doc Walkthrough](https://docs.google.com/document/d/1x3_9cWCMpCgdyiIiVNx4iIvOCfJMbKgfYOIz4zmSZVw/)
+  - If you experience visual lag on Intel integrated graphics, disable Speedstep (ie make your CPU run at max clock speed constantly)!
 
 ## Favorite Paid games
 
-- **Phoenix Wright Series (GBA/NDS)**
-  - really liked the first game - Recommended
+- [**Planescape: Torment (PC)**](https://store.steampowered.com/app/466300/Planescape_Torment_Enhanced_Edition/) - Highly Recommended. There is one point you can get stuck in this game...if you get stuck, look it up.
+  - NOTE before buying: [Read the comments section of the GOG page](https://www.gog.com/game/planescape_torment_enhanced_edition). Probably still worth buying, especially when it is on sale.
+  - One of my favorite pieces of media, however it's due to the overall presentation of the game story, world, etc, not because of the gameplay of the game.
+  - ask someone about the game. there are many small things which do not spoil anything and do not detract from the game's experience but will help you play the game
+  - If you are the type to just finish a game quickly and not read any of the text...don't play this game
+  - Do all the quests you can find, talk to every major NPC. Save often. Sometimes you might not be able to go back.
+  - Supposedly there is a 'upgraded' version on GOG, but I hear it has some bugs. Look into this before buying it.
+  - There is a sequel called 'Torment: Tides of Numenera'. While still good, I don't think it is as good as the first game.
 
 - [**Zero Escape Series (PC, NDS)**](https://store.steampowered.com/app/477740/Zero_Escape_The_Nonary_Games/) - Recommended
   - One of my favorite game series. Some of my grips have been fixed in the recent steam release of the first two games.
@@ -62,15 +64,6 @@ Will add links later. For now, use google. Games are vaguely ordered in how much
   - the game is no longer sold, so you will need to obtain it by other means...
   - would not suggest to people who are new to general science fiction themes/ideas as it may be....confusing
   - This is just one game in the 'infinity' series: "_[Never 7: The End of Infinity](http://en.wikipedia.org/w/index.php?title=Never_7:_The_End_of_Infinity&action=edit&redlink=1 "Never 7: The End of Infinity (page does not exist)")_,_[Remember 11: The Age of Infinity](http://en.wikipedia.org/wiki/Remember_11:_The_Age_of_Infinity "Remember 11: The Age of Infinity")_, _[12Riven ―the Ψcliminal of integral―](http://en.wikipedia.org/wiki/12Riven_%E2%80%95the_%CE%A8climinal_of_integral%E2%80%95 "12Riven ―the Ψcliminal of integral―")_, and _[Code_18](http://en.wikipedia.org/wiki/Code_18 "Code 18")" -from wikipedia_
-
-- [**Planescape: Torment (PC)**](https://store.steampowered.com/app/466300/Planescape_Torment_Enhanced_Edition/) - Hightly Recommended. There is one point you can get stuck in this game...if you get stuck, look it up.
-  - NOTE before buying: [Read the comments section of the GOG page](https://www.gog.com/game/planescape_torment_enhanced_edition). Probably still worth buying, especially when it is on sale.
-  - One of my favorite pieces of media, however it's due to the overall presentation of the game story, world, etc, not because of the gameplay of the game.
-  - ask someone about the game. there are many small things which do not spoil anything and do not detract from the game's experience but will help you play the game
-  - If you are the type to just finish a game quickly and not read any of the text...don't play this game
-  - Do all the quests you can find, talk to every major NPC. Save often. Sometimes you might not be able to go back.
-  - Supposedly there is a 'upgraded' version on GOG, but I hear it has some bugs. Look into this before buying it.
-  - There is a sequel called 'Torment: Tides of Numenera'. While still good, I don't think it is as good as the first game.
 
 - **Umineko Series (PC, PS3)** - [Steam Question Arcs](https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/) - [Steam PS3 patch page](https://github.com/07th-mod/guide/wiki/Umineko-Getting-started) - Recommended
   - Very long, definitely only consider this if you are willing to commit to it
@@ -88,7 +81,25 @@ Will add links later. For now, use google. Games are vaguely ordered in how much
   - "A story-driven experience about two doctors traversing through a dying man's memories to artificially fulfill his last wish"
   - I recommend this to pretty much everyone. Mainly a story driven experience.
 
+- [**Yakuza 0**](https://store.steampowered.com/app/638970/Yakuza_0/) - Recommended
+  - Well worth the $20 USD price, a good bit of fun and entertaining/dramatic story. However, I didn't the older games nearly as much as this prequel.
+
+- **Phoenix Wright Series (GBA/NDS)**
+  - really liked the first game - Recommended
+
 ## Full Games List (date order)
+
+- Dishonored Series
+  - Dishonored 2
+  - Dishonored
+
+- Yakuza Series
+  - Yakuza Kiwami 2
+  - Yakuza Kiwami
+  - Yakuza 0
+
+- Rimworld
+- Divinity: Original Sin 2
 
 - Braid
 
