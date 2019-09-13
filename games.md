@@ -2,8 +2,8 @@
 
 ## Games Being Played Now
 
-- Morrowind?
-- Rakuen
+- (Probably will play "AI: The Somnium Files" when it comes out)
+- Celeste
 - Marquess of Notoriety Demo
 - Majikoi
 - Symphonic Rain (VN) (on hold)
@@ -88,6 +88,8 @@ Games are vaguely ordered in how much they are worth your time.
   - really liked the first game - Recommended
 
 ## Full Games List (date order)
+
+- Girls Front Line: VA-11 Hall-A collab ([Listen to best song](https://www.youtube.com/watch?v=kartDCAF2mQ)/[Buy best song](https://garoad.bandcamp.com/track/your-love-is-a-drug-ft-adriana-figueroa-insaneintherain-arrange))
 
 - Dishonored Series
   - Dishonored 2
@@ -195,6 +197,8 @@ Games are vaguely ordered in how much they are worth your time.
 
 ## Dropped
 
+- Morrowind
+- Rakuen
 - Ico
 - yume nikki (on hold)
 - Reccetear
