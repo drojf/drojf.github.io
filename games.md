@@ -2,7 +2,6 @@
 
 ## Games Being Played Now
 
-- (Probably will play "AI: The Somnium Files" when it comes out)
 - Celeste
 - Marquess of Notoriety Demo
 - Majikoi
@@ -50,20 +49,9 @@ Games are vaguely ordered in how much they are worth your time.
   - Supposedly there is a 'upgraded' version on GOG, but I hear it has some bugs. Look into this before buying it.
   - There is a sequel called 'Torment: Tides of Numenera'. While still good, I don't think it is as good as the first game.
 
-- [**Zero Escape Series (PC, NDS)**](https://store.steampowered.com/app/477740/Zero_Escape_The_Nonary_Games/) - Recommended
-  - One of my favorite game series. Some of my grips have been fixed in the recent steam release of the first two games.
-  - Note that the third game in the series is very different to the first two games. Would reccomend you try the [first two games](https://store.steampowered.com/app/477740/Zero_Escape_The_Nonary_Games/) first.
 
 - **Ghost Trick: Phantom Detective (NDS, iOS)**  - Recommended
   - fun game with a nice story (by the same director as phoenix wright)
-
-- **Ever17: the out of infinity (pc , psp, ps2,  dreamcast,  **xbox360 (remake)**...)** - Recommended, with guide
-
-  - if you enjoy sci-fi and not so straightforward stories, you should play this game. if you get stuck while playing it, ask me and i'll be your mentor (lol)
-  - strongly suggest you use a walkthrough if you get stuck. GameFAQ has a fairly good 'no spoiler' walkthough. 
-  - the game is no longer sold, so you will need to obtain it by other means...
-  - would not suggest to people who are new to general science fiction themes/ideas as it may be....confusing
-  - This is just one game in the 'infinity' series: "_[Never 7: The End of Infinity](http://en.wikipedia.org/w/index.php?title=Never_7:_The_End_of_Infinity&action=edit&redlink=1 "Never 7: The End of Infinity (page does not exist)")_,_[Remember 11: The Age of Infinity](http://en.wikipedia.org/wiki/Remember_11:_The_Age_of_Infinity "Remember 11: The Age of Infinity")_, _[12Riven ―the Ψcliminal of integral―](http://en.wikipedia.org/wiki/12Riven_%E2%80%95the_%CE%A8climinal_of_integral%E2%80%95 "12Riven ―the Ψcliminal of integral―")_, and _[Code_18](http://en.wikipedia.org/wiki/Code_18 "Code 18")" -from wikipedia_
 
 - **Umineko Series (PC, PS3)** - [Steam Question Arcs](https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/) - [Steam PS3 patch page](https://github.com/07th-mod/guide/wiki/Umineko-Getting-started) - Recommended
   - Very long, definitely only consider this if you are willing to commit to it
@@ -87,7 +75,39 @@ Games are vaguely ordered in how much they are worth your time.
 - **Phoenix Wright Series (GBA/NDS)**
   - really liked the first game - Recommended
 
+### Uchikoshi Games
+
+There are enough games by/involving Uchikoshi that I made a section for it
+
+- [**AI: The Somnium Files**](https://store.steampowered.com/app/948740/AI_The_Somnium_Files/) - Recommended, see below
+  - One of my biggest concerns about Uchikoshi games has been accessibility - annoying puzzles or a long winded story can quickly put you off.
+    - While the game has puzzles, most (with the exception of one) can be figured out by trial and error. The puzzles inherently tie in with the story, which makes them feel more meaningful.
+    - The story is fairly hooking from the start (assuming you follow a left hand side path first)
+    - The story is not *too* convoluted
+  - VERY BIG RECOMMENDATION: I recommend completing the left half of the chart first (choose the left cage initially).
+  - NOTE1: You can use the map in somniums! This is not directly mentioned, so I played the entire game without using it, when it's actually very useful.
+  - NOTE2: I highly recommend using English voices.
+  - Extra: As part of marketing for the game, there was a Youtube channel setup: [Lemniscate English](https://www.youtube.com/channel/UCxYoH_UNbIKP1xnsTx9m5Gw) , and twitter accounts @Lemniscate_Aset and @Ota_Matsushita. May be worth checking out after you finish the game - I don't think there are any major spoilers, but I wouldn't risk it.
+
+- [**Zero Escape Series (PC, NDS)**](https://store.steampowered.com/app/477740/Zero_Escape_The_Nonary_Games/) - Recommended
+  - One of my favorite game series. Some of my gripes have been fixed in the recent steam release of the first two games.
+  - Note that the third game in the series is very different to the first two games. Would reccomend you try the [first two games](https://store.steampowered.com/app/477740/Zero_Escape_The_Nonary_Games/) first.
+
+
+- **Ever17: the out of infinity (pc , psp, ps2,  dreamcast,  **xbox360 (remake)**...)** - Recommended, with guide
+
+  - If you enjoy sci-fi and not so straightforward stories, you should play this game. if you get stuck while playing it, ask me and i'll be your mentor (lol)
+  - Strongly suggest you use a walkthrough if you get stuck. GameFAQ has a fairly good 'no spoiler' walkthough. 
+  - The game is no longer sold, so you will need to obtain it by other means...
+  - Would not suggest to people who are new to general science fiction themes/ideas as it may be....confusing
+  - This is just one game in the 'infinity' series: "_[Never 7: The End of Infinity](http://en.wikipedia.org/w/index.php?title=Never_7:_The_End_of_Infinity&action=edit&redlink=1 "Never 7: The End of Infinity (page does not exist)")_,_[Remember 11: The Age of Infinity](http://en.wikipedia.org/wiki/Remember_11:_The_Age_of_Infinity "Remember 11: The Age of Infinity")_, _[12Riven ―the Ψcliminal of integral―](http://en.wikipedia.org/wiki/12Riven_%E2%80%95the_%CE%A8climinal_of_integral%E2%80%95 "12Riven ―the Ψcliminal of integral―")_, and _[Code_18](http://en.wikipedia.org/wiki/Code_18 "Code 18")" -from wikipedia_
+
+
+
+
 ## Full Games List (date order)
+
+- [AI: The Somnium Files](https://store.steampowered.com/app/948740/AI_The_Somnium_Files/)
 
 - Girls Front Line: VA-11 Hall-A collab ([Listen to best song](https://www.youtube.com/watch?v=kartDCAF2mQ)/[Buy best song](https://garoad.bandcamp.com/track/your-love-is-a-drug-ft-adriana-figueroa-insaneintherain-arrange))
 
