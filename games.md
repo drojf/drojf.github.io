@@ -1,12 +1,27 @@
 # Games List
 
+## Note about Xbox game pass
+
+If you haven't played/bought many games, xbox game pass is really good value for money. Recently it's been having a $1 for 1 month/3 months deal, and at that price you can't really go wrong. 
+
+(This statement is correct as of 2019-12-28, but things could change.)
+
 ## Games Being Played Now
 
+- Opus Magnum (Xbox Game Pass)
+- CrossCode (Xbox Game Pass)
+- Dead Cells (Xbox Game Pass)
+
+### Somewhat on hold
+
+- Fata Morgana
+- Trails in the Sky 2
 - Celeste
 - Marquess of Notoriety Demo
 - Majikoi
 - Symphonic Rain (VN) (on hold)
 - Disgaea 5
+- (Dropped?) Shenmue 1 & 2 (I bought this, but it's on Xbox game pass.)
 
 ## Favorite 'Free' games
 
@@ -51,7 +66,7 @@ Games are vaguely ordered in how much they are worth your time.
   - If you are the type to just finish a game quickly and not read any of the text...don't play this game
   - Do all the quests you can find, talk to every major NPC. Save often. Sometimes you might not be able to go back.
   - Supposedly there is a 'upgraded' version on GOG, but I hear it has some bugs. Look into this before buying it.
-  - There is a sequel called 'Torment: Tides of Numenera'. While still good, I don't think it is as good as the first game.
+  - There is a sequel called 'Torment: Tides of Numenera'. While still good, I don't think it is as good as the first game. This sequel is available on Xbox game pass if you just want to try it out.
 
 
 - **Ghost Trick: Phantom Detective (NDS, iOS)**  - Recommended
@@ -97,7 +112,6 @@ There are enough games by/involving Uchikoshi that I made a section for it
   - One of my favorite game series. Some of my gripes have been fixed in the recent steam release of the first two games.
   - Note that the third game in the series is very different to the first two games. Would reccomend you try the [first two games](https://store.steampowered.com/app/477740/Zero_Escape_The_Nonary_Games/) first.
 
-
 - **Ever17: the out of infinity (pc , psp, ps2,  dreamcast,  **xbox360 (remake)**...)** - Recommended, with guide
 
   - If you enjoy sci-fi and not so straightforward stories, you should play this game. if you get stuck while playing it, ask me and i'll be your mentor (lol)
@@ -106,17 +120,21 @@ There are enough games by/involving Uchikoshi that I made a section for it
   - Would not suggest to people who are new to general science fiction themes/ideas as it may be....confusing
   - This is just one game in the 'infinity' series: "_[Never 7: The End of Infinity](http://en.wikipedia.org/w/index.php?title=Never_7:_The_End_of_Infinity&action=edit&redlink=1 "Never 7: The End of Infinity (page does not exist)")_,_[Remember 11: The Age of Infinity](http://en.wikipedia.org/wiki/Remember_11:_The_Age_of_Infinity "Remember 11: The Age of Infinity")_, _[12Riven ―the Ψcliminal of integral―](http://en.wikipedia.org/wiki/12Riven_%E2%80%95the_%CE%A8climinal_of_integral%E2%80%95 "12Riven ―the Ψcliminal of integral―")_, and _[Code_18](http://en.wikipedia.org/wiki/Code_18 "Code 18")" -from wikipedia_
 
+## Honorable Mentions
 
-
+- Void Bastards (Suggest playing on Xbox game pass)
+- Dishonored 1/2
 
 ## Full Games List (date order)
 
+- Void Bastards (using Xbox Game Pass)
+- The Outer Worlds (using Xbox Game Pass)
 - [AI: The Somnium Files](https://store.steampowered.com/app/948740/AI_The_Somnium_Files/)
 
 - Girls Front Line: VA-11 Hall-A collab ([Listen to best song](https://www.youtube.com/watch?v=kartDCAF2mQ)/[Buy best song](https://garoad.bandcamp.com/track/your-love-is-a-drug-ft-adriana-figueroa-insaneintherain-arrange))
 
 - Dishonored Series
-  - Dishonored 2
+  - Dishonored 2 (this is available on xbox game pass)
   - Dishonored
 
 - Yakuza Series
@@ -133,7 +151,7 @@ There are enough games by/involving Uchikoshi that I made a section for it
 - Overcooked
 - whatifadventuretimewasa3danime
 - Embric of Wulfhammer's Castle
-- Subnautica
+- Subnautica (I bought this, but available on Xbox Game Pass)
 - The Swapper
 
 - Escape from the Room with my Kouhai Game
@@ -160,7 +178,7 @@ There are enough games by/involving Uchikoshi that I made a section for it
   - Fault Milestone Two: Side Above
 
 - Antichamber
-- The Talos Principle
+- The Talos Principle (I bought this, but it's available on Xbox Game Pass. Not sure if expansion is included.)
 
 - Zero Escape - Zero Time Dilemma
 - Zero Escape - Virtue's last reward
@@ -175,13 +193,13 @@ There are enough games by/involving Uchikoshi that I made a section for it
 - DOOM
 - Dark Messiah of Might and Magic
 - Love at First Sight
-- Valkyria Chronicles
+- Valkyria Chronicles (I bought this, but available on Xbox Game Pass)
 - Root Double - Before Crime * After Days- Xtend Edition
 - Nier:Automata
 - The Legend of Heroes: Trails in the Sky
 - Fallout 4
 - Mirror's Edge
-- Torment: Tides of Numenera
+- Torment: Tides of Numenera (I bought this, but available on Xbox Game Pass)
 - Undertale
 - Umineko no Naku Koro Ni Chiru
 - Umineko no Naku Koro Ni
