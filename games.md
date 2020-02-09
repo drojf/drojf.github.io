@@ -2,14 +2,15 @@
 
 ## Note about Xbox game pass
 
-If you haven't played/bought many games, xbox game pass is really good value for money. Recently it's been having a $1 for 1 month/3 months deal, and at that price you can't really go wrong. 
+If you haven't played/bought many games, xbox game pass is really good value for money. Recently it's been having a $1 for 1 month/3 months deal, and at that price you can't really go wrong.
+
+One possibly unexpected negative with game pass is that you cannot access the game files (even the save files!). That more or less means no modding. It also means no backing up your save files manually, but I *think* game pass enforces that every game must have cloud save sync (don't quote me on this).
 
 (This statement is correct as of 2019-12-28, but things could change.)
 
 ## Games Being Played Now
 
 - Opus Magnum (Xbox Game Pass)
-- CrossCode (Xbox Game Pass)
 - Dead Cells (Xbox Game Pass)
 
 ### Somewhat on hold
@@ -123,9 +124,12 @@ There are enough games by/involving Uchikoshi that I made a section for it
 ## Honorable Mentions
 
 - Void Bastards (Suggest playing on Xbox game pass)
-- Dishonored 1/2
+- Dishonored 1/2 (Dishonored 2 **only** is available on Xbox Game Pass)
+- CrossCode (Available on Xbox Game Pass - note you can export your most recent save by pressing F10 on the main menu)
 
 ## Full Games List (date order)
+
+- CrossCode (using Xbox Game Pass)
 
 - Void Bastards (using Xbox Game Pass)
 - The Outer Worlds (using Xbox Game Pass)
