@@ -10,19 +10,20 @@ One possibly unexpected negative with game pass is that you cannot access the ga
 
 ## Games Being Played Now
 
-- Opus Magnum (Xbox Game Pass)
-- Dead Cells (Xbox Game Pass)
+- Prey (Xbox Game Pass)
+- Trails in the Sky 2
 
 ### Somewhat on hold
 
 - Fata Morgana
-- Trails in the Sky 2
 - Celeste
 - Marquess of Notoriety Demo
 - Majikoi
 - Symphonic Rain (VN) (on hold)
 - Disgaea 5
 - (Dropped?) Shenmue 1 & 2 (I bought this, but it's on Xbox game pass.)
+- Opus Magnum (Xbox Game Pass)
+- Dead Cells (Xbox Game Pass)
 
 ## Favorite 'Free' games
 
@@ -91,9 +92,16 @@ Games are vaguely ordered in how much they are worth your time.
 
 - [**Yakuza 0**](https://store.steampowered.com/app/638970/Yakuza_0/) - Recommended
   - Well worth the $20 USD price, a good bit of fun and entertaining/dramatic story. However, I didn't the older games nearly as much as this prequel.
+  - Available on Xbox Game Pass (Xbox and PC)!
+  - Often on sale which makes it even more worth it.
 
 - **Phoenix Wright Series (GBA/NDS)**
   - really liked the first game - Recommended
+
+- [Disgaea 1](https://store.steampowered.com/app/405900/Disgaea_PC/) - PC and Various Consoles
+  - I really enjoyed this game, but it's been so long since I played it I find it hard to give a good review
+  - I remember enjoying the story, dialogue, as well as the strategy elements and music
+  - While this is a "tactical RPG", it feels "fun and silly" due to the over the top game mechanics like being able to physically pick up units - by repeating this you can form a stack of units. Other elements/levels make it seem more like a puzzle game.
 
 ### Uchikoshi Games
 
@@ -144,7 +152,7 @@ There are enough games by/involving Uchikoshi that I made a section for it
 - Yakuza Series
   - Yakuza Kiwami 2
   - Yakuza Kiwami
-  - Yakuza 0
+  - Yakuza 0 (this is available on xbox game pass)
 
 - Rimworld
 - Divinity: Original Sin 2
