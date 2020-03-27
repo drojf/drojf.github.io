@@ -10,7 +10,6 @@ One possibly unexpected negative with game pass is that you cannot access the ga
 
 ## Games Being Played Now
 
-- Prey (Xbox Game Pass)
 - Trails in the Sky 2
 
 ### Somewhat on hold
@@ -58,7 +57,6 @@ Games are vaguely ordered in how much they are worth your time.
 - Only for people who enjoyed the atmosphere/story of VA-11 Hall-A: There was a limited time collab with Girls Front line and VA-11 Hall-A. Seeing as it's no longer available, I feel like it's allowable to link to a video playthrough of the entire collab. However you may need to play Girls Front Line a little to get the gist of things, before playing.
   - Playthrough: https://www.youtube.com/watch?v=_zkvIVBIid0
 
-
 ## Favorite Paid games
 
 - [**Planescape: Torment (PC)**](https://store.steampowered.com/app/466300/Planescape_Torment_Enhanced_Edition/) - Highly Recommended. There is one point you can get stuck in this game...if you get stuck, look it up.
@@ -69,7 +67,6 @@ Games are vaguely ordered in how much they are worth your time.
   - Do all the quests you can find, talk to every major NPC. Save often. Sometimes you might not be able to go back.
   - Supposedly there is a 'upgraded' version on GOG, but I hear it has some bugs. Look into this before buying it.
   - There is a sequel called 'Torment: Tides of Numenera'. While still good, I don't think it is as good as the first game. This sequel is available on Xbox game pass if you just want to try it out.
-
 
 - **Ghost Trick: Phantom Detective (NDS, iOS)**  - Recommended
   - fun game with a nice story (by the same director as phoenix wright)
@@ -102,6 +99,13 @@ Games are vaguely ordered in how much they are worth your time.
   - I really enjoyed this game, but it's been so long since I played it I find it hard to give a good review
   - I remember enjoying the story, dialogue, as well as the strategy elements and music
   - While this is a "tactical RPG", it feels "fun and silly" due to the over the top game mechanics like being able to physically pick up units - by repeating this you can form a stack of units. Other elements/levels make it seem more like a puzzle game.
+
+- [Prey](https://store.steampowered.com/app/480490/Prey/) - PC and Various Console, Xbox Game Pass
+  - This game is meant to be a spiritual successor to system shock (which I haven't played), but to fans of Dishonored and Deus Ex it may seem familiar
+  - There are various things that people have praised in this game, but what I like most is freedom - the interconnectivity of the map, large number of ways to tackle enemies and objectives, different skill options. This also makes exploration feel more natural.
+  - While this is tagged as Horror, this mainly comes from jump scares, and also depends how you play. I believe this is due to the enemy designs, but also that you can get away with running around instead of sneaking slowly (on normal difficulty at least).
+  - Greatly enjoyed the overall feeling of exploring the space station becoming increasingly invaded by alien lifeforms.
+  - I hope you like listening to audio logs.
 
 ### Uchikoshi Games
 
@@ -136,6 +140,8 @@ There are enough games by/involving Uchikoshi that I made a section for it
 - CrossCode (Available on Xbox Game Pass - note you can export your most recent save by pressing F10 on the main menu)
 
 ## Full Games List (date order)
+
+- Prey (using Xbox Game Pass)
 
 - CrossCode (using Xbox Game Pass)
 
