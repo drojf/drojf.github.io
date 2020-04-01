@@ -11,6 +11,7 @@ One possibly unexpected negative with game pass is that you cannot access the ga
 ## Games Being Played Now
 
 - Trails in the Sky 2
+- Qube 2
 
 ### Somewhat on hold
 
@@ -105,6 +106,7 @@ Games are vaguely ordered in how much they are worth your time.
   - There are various things that people have praised in this game, but what I like most is freedom - the interconnectivity of the map, large number of ways to tackle enemies and objectives, different skill options. This also makes exploration feel more natural.
   - While this is tagged as Horror, this mainly comes from jump scares, and also depends how you play. I believe this is due to the enemy designs, but also that you can get away with running around instead of sneaking slowly (on normal difficulty at least).
   - Greatly enjoyed the overall feeling of exploring the space station becoming increasingly invaded by alien lifeforms.
+  - **Technical Recommendation**: Play this on a SSD. Even on an SSD, the load times are fairly long, so on a HDD it would probably be unbearable.
   - I hope you like listening to audio logs.
 
 ### Uchikoshi Games
@@ -138,8 +140,11 @@ There are enough games by/involving Uchikoshi that I made a section for it
 - Void Bastards (Suggest playing on Xbox game pass)
 - Dishonored 1/2 (Dishonored 2 **only** is available on Xbox Game Pass)
 - CrossCode (Available on Xbox Game Pass - note you can export your most recent save by pressing F10 on the main menu)
+- A Short Hike
 
 ## Full Games List (date order)
+
+- A Short Hike
 
 - Prey (using Xbox Game Pass)
 
