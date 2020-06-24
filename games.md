@@ -10,20 +10,18 @@ One possibly unexpected negative with game pass is that you cannot access the ga
 
 ## Games Being Played Now
 
-- Trails in the Sky 2
-- Qube 2
+- Outer Wilds (NOT the Outer Worlds!)
 
 ### Somewhat on hold
 
+- Trails in the Sky 2
 - Fata Morgana
-- Celeste
 - Marquess of Notoriety Demo
 - Majikoi
 - Symphonic Rain (VN) (on hold)
 - Disgaea 5
 - (Dropped?) Shenmue 1 & 2 (I bought this, but it's on Xbox game pass.)
 - Opus Magnum (Xbox Game Pass)
-- Dead Cells (Xbox Game Pass)
 
 ## Favorite 'Free' games
 
@@ -101,7 +99,7 @@ Games are vaguely ordered in how much they are worth your time.
   - I remember enjoying the story, dialogue, as well as the strategy elements and music
   - While this is a "tactical RPG", it feels "fun and silly" due to the over the top game mechanics like being able to physically pick up units - by repeating this you can form a stack of units. Other elements/levels make it seem more like a puzzle game.
 
-- [Prey](https://store.steampowered.com/app/480490/Prey/) - PC and Various Console, Xbox Game Pass
+- [Prey](https://store.steampowered.com/app/480490/Prey/) - PC and Various Console, Xbox Game Pass (Arkane Studios)
   - This game is meant to be a spiritual successor to system shock (which I haven't played), but to fans of Dishonored and Deus Ex it may seem familiar
   - There are various things that people have praised in this game, but what I like most is freedom - the interconnectivity of the map, large number of ways to tackle enemies and objectives, different skill options. This also makes exploration feel more natural.
   - While this is tagged as Horror, this mainly comes from jump scares, and also depends how you play. I believe this is due to the enemy designs, but also that you can get away with running around instead of sneaking slowly (on normal difficulty at least).
@@ -138,11 +136,17 @@ There are enough games by/involving Uchikoshi that I made a section for it
 ## Honorable Mentions
 
 - Void Bastards (Suggest playing on Xbox game pass)
-- Dishonored 1/2 (Dishonored 2 **only** is available on Xbox Game Pass)
 - CrossCode (Available on Xbox Game Pass - note you can export your most recent save by pressing F10 on the main menu)
 - A Short Hike
 
+### Arkane Studios
+
+- Dishonored 1/2 (On Xbox Game Pass, you can only get Dishonored 2, not Dishonored 1)
+- Dark Messiah of Might and Magic
+
 ## Full Games List (date order)
+
+- GTA V (single player only)
 
 - A Short Hike
 
@@ -262,6 +266,9 @@ There are enough games by/involving Uchikoshi that I made a section for it
 
 ## Dropped
 
+- Dead Cells (Xbox Game Pass)
+- Celeste (didn't finish extra chapter)
+- Qube 2
 - Morrowind
 - Rakuen
 - Ico
