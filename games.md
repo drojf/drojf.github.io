@@ -10,7 +10,6 @@ One possibly unexpected negative with game pass is that you cannot access the ga
 
 ## Games Being Played Now
 
-- Outer Wilds (NOT the Outer Worlds!)
 
 ### Somewhat on hold
 
@@ -57,6 +56,26 @@ Games are vaguely ordered in how much they are worth your time.
   - Playthrough: https://www.youtube.com/watch?v=_zkvIVBIid0
 
 ## Favorite Paid games
+
+- [**Outer Wilds**](https://store.steampowered.com/app/753640/Outer_Wilds/) (NOT "The Outer Worlds"!) - Highly Recommended
+  - If any of the following appeal to you, you'll probably enjoy this game:
+    - Adventure/Exploration
+    - Mystery
+    - Science-Fiction
+  - Best if you go in completely blind (don't even watch any trailers!)
+  - The game can be scary in some unconventional (and conventional) ways, if that's a problem for you.
+  - It is possible to get stuck in this game, to the point where the developers have changed the game/are continously updating the game based on feedback.
+    - The game has a in-built system for taking notes of what you've learned, but perhaps manually taking notes of important things will help.
+    - Sticking to one place at a time rather than going off everywhere may make you less confused
+  - Gameplay Tips
+    - In general, whenever there are prompts on the screen, try all of them out/activating all of them to learn what they do. Almost every action will be useful at some point.
+    - Don't forget your ship has a log computer, and a health/fuel refill station. Have a good look inside your ship.
+    - Don't forget about the "match velocity" button while using your ship/suit.
+    - You can take a picture using the scouter without sending out a scout
+    - You can meet someone who can teach you an important ability if you read their dialogue
+    - Try out actions available at the bonfire
+    - If you're finding an area annoying to repeatedly enter, there's probably a shortcut there.
+  - Noclip did [a documentary on the game](https://www.youtube.com/watch?v=LbY0mBXKKT0) (contains spoilers)
 
 - [**Planescape: Torment (PC)**](https://store.steampowered.com/app/466300/Planescape_Torment_Enhanced_Edition/) - Highly Recommended. There is one point you can get stuck in this game...if you get stuck, look it up.
   - NOTE before buying: [Read the comments section of the GOG page](https://www.gog.com/game/planescape_torment_enhanced_edition). Probably still worth buying, especially when it is on sale.
@@ -145,6 +164,8 @@ There are enough games by/involving Uchikoshi that I made a section for it
 - Dark Messiah of Might and Magic
 
 ## Full Games List (date order)
+
+- Outer Wilds (NOT "The Outer Worlds" - see in above favorites list)
 
 - GTA V (single player only)
 
