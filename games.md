@@ -1,15 +1,6 @@
 # Games List
 
-## Note about Xbox game pass
-
-If you haven't played/bought many games, xbox game pass is really good value for money. Recently it's been having a $1 for 1 month/3 months deal, and at that price you can't really go wrong.
-
-One possibly unexpected negative with game pass is that you cannot access the game files (even the save files!). That more or less means no modding. It also means no backing up your save files manually, but I *think* game pass enforces that every game must have cloud save sync (don't quote me on this).
-
-(This statement is correct as of 2019-12-28, but things could change.)
-
 ## Games Being Played Now
-
 
 ### Somewhat on hold
 
@@ -19,8 +10,8 @@ One possibly unexpected negative with game pass is that you cannot access the ga
 - Majikoi
 - Symphonic Rain (VN) (on hold)
 - Disgaea 5
-- (Dropped?) Shenmue 1 & 2 (I bought this, but it's on Xbox game pass.)
-- Opus Magnum (Xbox Game Pass)
+- (Dropped?) Shenmue 1 & 2
+- Opus Magnum
 
 ## Favorite 'Free' games
 
@@ -84,7 +75,7 @@ Games are vaguely ordered in how much they are worth your time.
   - If you are the type to just finish a game quickly and not read any of the text...don't play this game
   - Do all the quests you can find, talk to every major NPC. Save often. Sometimes you might not be able to go back.
   - Supposedly there is a 'upgraded' version on GOG, but I hear it has some bugs. Look into this before buying it.
-  - There is a sequel called 'Torment: Tides of Numenera'. While still good, I don't think it is as good as the first game. This sequel is available on Xbox game pass if you just want to try it out.
+  - There is a sequel called 'Torment: Tides of Numenera'. While still good, I don't think it is as good as the first game.
 
 - **Ghost Trick: Phantom Detective (NDS, iOS)**  - Recommended
   - fun game with a nice story (by the same director as phoenix wright)
@@ -107,7 +98,6 @@ Games are vaguely ordered in how much they are worth your time.
 
 - [**Yakuza 0**](https://store.steampowered.com/app/638970/Yakuza_0/) - Recommended
   - Well worth the $20 USD price, a good bit of fun and entertaining/dramatic story. However, I didn't the older games nearly as much as this prequel.
-  - Available on Xbox Game Pass (Xbox and PC)!
   - Often on sale which makes it even more worth it.
 
 - **Phoenix Wright Series (GBA/NDS)**
@@ -118,7 +108,7 @@ Games are vaguely ordered in how much they are worth your time.
   - I remember enjoying the story, dialogue, as well as the strategy elements and music
   - While this is a "tactical RPG", it feels "fun and silly" due to the over the top game mechanics like being able to physically pick up units - by repeating this you can form a stack of units. Other elements/levels make it seem more like a puzzle game.
 
-- [Prey](https://store.steampowered.com/app/480490/Prey/) - PC and Various Console, Xbox Game Pass (Arkane Studios)
+- [Prey](https://store.steampowered.com/app/480490/Prey/) - PC and Various Console
   - This game is meant to be a spiritual successor to system shock (which I haven't played), but to fans of Dishonored and Deus Ex it may seem familiar
   - There are various things that people have praised in this game, but what I like most is freedom - the interconnectivity of the map, large number of ways to tackle enemies and objectives, different skill options. This also makes exploration feel more natural.
   - While this is tagged as Horror, this mainly comes from jump scares, and also depends how you play. I believe this is due to the enemy designs, but also that you can get away with running around instead of sneaking slowly (on normal difficulty at least).
@@ -154,13 +144,13 @@ There are enough games by/involving Uchikoshi that I made a section for it
 
 ## Honorable Mentions
 
-- Void Bastards (Suggest playing on Xbox game pass)
-- CrossCode (Available on Xbox Game Pass - note you can export your most recent save by pressing F10 on the main menu)
+- Void Bastards
+- CrossCode
 - A Short Hike
 
 ### Arkane Studios
 
-- Dishonored 1/2 (On Xbox Game Pass, you can only get Dishonored 2, not Dishonored 1)
+- Dishonored 1/2
 - Dark Messiah of Might and Magic
 
 ## Full Games List (date order)
@@ -171,24 +161,24 @@ There are enough games by/involving Uchikoshi that I made a section for it
 
 - A Short Hike
 
-- Prey (using Xbox Game Pass)
+- Prey
 
-- CrossCode (using Xbox Game Pass)
+- CrossCode
 
-- Void Bastards (using Xbox Game Pass)
-- The Outer Worlds (using Xbox Game Pass)
+- Void Bastards
+- The Outer Worlds
 - [AI: The Somnium Files](https://store.steampowered.com/app/948740/AI_The_Somnium_Files/)
 
 - Girls Front Line: VA-11 Hall-A collab ([Listen to best song](https://www.youtube.com/watch?v=kartDCAF2mQ)/[Buy best song](https://garoad.bandcamp.com/track/your-love-is-a-drug-ft-adriana-figueroa-insaneintherain-arrange))
 
 - Dishonored Series
-  - Dishonored 2 (this is available on xbox game pass)
+  - Dishonored 2
   - Dishonored
 
 - Yakuza Series
   - Yakuza Kiwami 2
   - Yakuza Kiwami
-  - Yakuza 0 (this is available on xbox game pass)
+  - Yakuza 0
 
 - Rimworld
 - Divinity: Original Sin 2
@@ -199,7 +189,7 @@ There are enough games by/involving Uchikoshi that I made a section for it
 - Overcooked
 - whatifadventuretimewasa3danime
 - Embric of Wulfhammer's Castle
-- Subnautica (I bought this, but available on Xbox Game Pass)
+- Subnautica
 - The Swapper
 
 - Escape from the Room with my Kouhai Game
@@ -226,7 +216,7 @@ There are enough games by/involving Uchikoshi that I made a section for it
   - Fault Milestone Two: Side Above
 
 - Antichamber
-- The Talos Principle (I bought this, but it's available on Xbox Game Pass. Not sure if expansion is included.)
+- The Talos Principle
 
 - Zero Escape - Zero Time Dilemma
 - Zero Escape - Virtue's last reward
@@ -241,13 +231,13 @@ There are enough games by/involving Uchikoshi that I made a section for it
 - DOOM
 - Dark Messiah of Might and Magic
 - Love at First Sight
-- Valkyria Chronicles (I bought this, but available on Xbox Game Pass)
+- Valkyria Chronicles
 - Root Double - Before Crime * After Days- Xtend Edition
 - Nier:Automata
 - The Legend of Heroes: Trails in the Sky
 - Fallout 4
 - Mirror's Edge
-- Torment: Tides of Numenera (I bought this, but available on Xbox Game Pass)
+- Torment: Tides of Numenera
 - Undertale
 - Umineko no Naku Koro Ni Chiru
 - Umineko no Naku Koro Ni
@@ -287,7 +277,7 @@ There are enough games by/involving Uchikoshi that I made a section for it
 
 ## Dropped
 
-- Dead Cells (Xbox Game Pass)
+- Dead Cells
 - Celeste (didn't finish extra chapter)
 - Qube 2
 - Morrowind
