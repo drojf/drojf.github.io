@@ -2,7 +2,12 @@
 
 ## Games Being Played Now
 
-### Somewhat on hold
+- Rimworld
+- Paradise Killer
+- Raging Loop
+- Noita
+
+### On hold
 
 - Trails in the Sky 2
 - Fata Morgana
@@ -10,7 +15,6 @@
 - Majikoi
 - Symphonic Rain (VN) (on hold)
 - Disgaea 5
-- (Dropped?) Shenmue 1 & 2
 - Opus Magnum
 
 ## Favorite 'Free' games
@@ -123,7 +127,7 @@ There are enough games by/involving Uchikoshi that I made a section for it
 - [**AI: The Somnium Files**](https://store.steampowered.com/app/948740/AI_The_Somnium_Files/) - Recommended as a first Uchikoshi game, see below
   - One of my biggest concerns about Uchikoshi games has been accessibility - annoying puzzles or a long winded story can quickly put you off.
     - While the game has puzzles, most (with the exception of one) can be figured out by trial and error. The puzzles inherently tie in with the story, which makes them feel more meaningful.
-    - The story is fairly hooking from the start (assuming you follow a left hand side path first)
+    - Assuming you follow the left hand side path first, the story is fairly hooking. For this reason many people recommend the left hand path first.
     - The story is not *too* convoluted
   - NOTE1: You can use the map in somniums! This is not directly mentioned, so I played the entire game without using it, when it's actually very useful.
   - NOTE2: I highly recommend using English voices.
@@ -154,6 +158,8 @@ There are enough games by/involving Uchikoshi that I made a section for it
 - Dark Messiah of Might and Magic
 
 ## Full Games List (date order)
+
+- Quern
 
 - Outer Wilds (NOT "The Outer Worlds" - see in above favorites list)
 
@@ -277,6 +283,7 @@ There are enough games by/involving Uchikoshi that I made a section for it
 
 ## Dropped
 
+- Shenmue 1 & 2
 - Dead Cells
 - Celeste (didn't finish extra chapter)
 - Qube 2
