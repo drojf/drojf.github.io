@@ -3,7 +3,6 @@
 ## Games Being Played Now
 
 - Rimworld
-- Paradise Killer
 - Raging Loop
 - Noita
 
@@ -120,6 +119,17 @@ Games are vaguely ordered in how much they are worth your time.
   - **Technical Recommendation**: Play this on a SSD. Even on an SSD, the load times are fairly long, so on a HDD it would probably be unbearable.
   - I hope you like listening to audio logs.
 
+- [Paradise Killer](http://paradisekiller.com/) - PC([Steam](https://store.steampowered.com/app/1160220/Paradise_Killer/), [GOG](https://www.gog.com/game/paradise_killer)) and [Switch](https://www.nintendo.com/games/detail/paradise-killer-switch/)
+  - Indie Adventure/Detective game with amazing atosphere, setting, style, music, freely explorable 3D world. For me the world setting (and just figuring out the setting) is what I found most interesting/addictive, with everything else a big plus ontop of that.
+  - While I think some things could have been done to improve the experience (emotionality of the game/character development, 3D lighting, having full voice acting rather than just voice emotes), these are just wishlist things rather than dealbreakers.
+  - Revise evidence periodically - don't leave it to be banked up for a long time, as it will be harder to remember everything, and takes away from the fun of postulating about what happened.
+  - Don't worry about running out of crystals - I finished the game with 60+ excess crystals I never used. Always buy any drinks/upgrades you can find, then if you have spare crystals buy one fast travel in each area.
+  - I had lots of trouble getting to the prisoner bridge control panel...because I missed something obvious. Just walk around the perimeter of the metal cage while looking at it carefully and you should find it - the entrance is literally just next to it.
+  - Footbaths contain *different* upgrades. I played the entire game with only one footbath upgrade, as I thought all footbaths provided the same upgrade...
+  - Take a good look around you rather than running everywhere, you may spot interesting things (may be worth noting down for later).
+  - There is a "Mature Content" option - this only uncensors swear words and enables some voice emotes with swear words - doesn't add/change any content.
+  - If you get motion sickness, try disabling motion blur, and customizing the FOV setting (make it wider)
+
 ### Uchikoshi Games
 
 There are enough games by/involving Uchikoshi that I made a section for it
@@ -158,6 +168,8 @@ There are enough games by/involving Uchikoshi that I made a section for it
 - Dark Messiah of Might and Magic
 
 ## Full Games List (date order)
+
+- Paradise Killer
 
 - Quern
 
