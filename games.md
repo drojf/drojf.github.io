@@ -127,8 +127,10 @@ Games are vaguely ordered in how much they are worth your time.
   - I had lots of trouble getting to the prisoner bridge control panel...because I missed something obvious. Just walk around the perimeter of the metal cage while looking at it carefully and you should find it - the entrance is literally just next to it.
   - Footbaths contain *different* upgrades. I played the entire game with only one footbath upgrade, as I thought all footbaths provided the same upgrade...
   - Take a good look around you rather than running everywhere, you may spot interesting things (may be worth noting down for later).
-  - There is a "Mature Content" option - this only uncensors swear words and enables some voice emotes with swear words - doesn't add/change any content.
-  - If you get motion sickness, try disabling motion blur, and customizing the FOV setting (make it wider)
+  - Important Game Options:
+    - If you get motion sickness, try disabling motion blur, and customizing the FOV setting (make it wider)
+    - If you find the "voice emotes" annoying, you can disable them in the menu (but I got used to it and left it on)
+    - There is a "Mature Content" option - this only uncensors swear words and enables some voice emotes with swear words - doesn't add/change any content.
 
 ### Uchikoshi Games
 
@@ -161,6 +163,10 @@ There are enough games by/involving Uchikoshi that I made a section for it
 - Void Bastards
 - CrossCode
 - A Short Hike
+- [Stars Die](https://yorkeegj.itch.io/stars-die)
+  - I'm amazed how well this short game sets it's atmosphere through level/visual design and music
+  - The slow, deliberate cutscenes/endings are amazing too
+  - Somehow feels much "bigger" than it is/should be? Perhaps it evokes the imagination to fill in the gaps more than most media can.
 
 ### Arkane Studios
 
@@ -169,23 +175,27 @@ There are enough games by/involving Uchikoshi that I made a section for it
 
 ## Full Games List (date order)
 
-- Paradise Killer
+- Minit
+
+- [Stars Die](https://yorkeegj.itch.io/stars-die)
+
+- Paradise Killer (favorited)
 
 - Quern
 
-- Outer Wilds (NOT "The Outer Worlds" - see in above favorites list)
+- Outer Wilds (NOT "The Outer Worlds") (favorited)
 
 - GTA V (single player only)
 
 - A Short Hike
 
-- Prey
+- Prey (favorited)
 
 - CrossCode
 
 - Void Bastards
 - The Outer Worlds
-- [AI: The Somnium Files](https://store.steampowered.com/app/948740/AI_The_Somnium_Files/)
+- [AI: The Somnium Files](https://store.steampowered.com/app/948740/AI_The_Somnium_Files/) (favorited)
 
 - Girls Front Line: VA-11 Hall-A collab ([Listen to best song](https://www.youtube.com/watch?v=kartDCAF2mQ)/[Buy best song](https://garoad.bandcamp.com/track/your-love-is-a-drug-ft-adriana-figueroa-insaneintherain-arrange))
 
