@@ -14,6 +14,16 @@
 
 7za a graph2.7z ./folder_to_compress/* -mqs -mx=9 -ms=on -md256m
 
+If you have a relative path to a folder to compress like 'deep/relative/documents', and you do
+
+	7za out.7z 'deep/relative/documents'
+
+Then the entire path will be included in the archive. To prevent this happening, write the path with a dot (add a './') at the start like:
+
+	7za out.7z './deep/relative/documents'
+
+The above example will just contain the 'documents' folder at its root.
+
 Use "./folder_to_compress/*" to not include the folder itself (a relative path)
 Use "folder_to_compress" if you wish to include the folder in the archive
 
