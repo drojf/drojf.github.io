@@ -12,10 +12,20 @@
 
 ## Electronics
 
+### Youtube Channels
+
+- https://www.youtube.com/c/MicroTypeEngineering
 ### PCB Design
 
-- [What Every PCB Designer Should Know - Return Current Path (with Eric Bogatin)](https://www.youtube.com/watch?v=icRzEZF3eZo) Explanation about return currents for both single-ended and differential signals
-- [How to design Castellated Modules - OnTrack Whiteboard Series](https://www.youtube.com/watch?v=Ry69DIVTOsI)
+#### Grounding & Return Paths
+
+- [Altium - How to achieve proper grounding](https://www.youtube.com/watch?v=ySuUZEjARPY)
+  - found from [this twitter post by jonoxer](https://twitter.com/jonoxer/status/1341899402642743298)
+  - Also see [What Every PCB Designer Should Know - Return Current Path (with Eric Bogatin)](https://www.youtube.com/watch?v=icRzEZF3eZo) Explanation about return currents for both single-ended and differential signals
+
+#### Misc
+
+- [Altium - How to design Castellated Modules - OnTrack Whiteboard Series](https://www.youtube.com/watch?v=Ry69DIVTOsI)
 
 ### Electromagnetic Compatability (EMC, EMI, ESD)
 
