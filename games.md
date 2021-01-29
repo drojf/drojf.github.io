@@ -1,10 +1,18 @@
 # Games List
 
+## Wishlist
+
+- 13 Sentinels: Aegis Rim (This is currently a PS4 exclusive, and I don't havea PS4)
+- Yakuza 3-5 (will play on xbox game pass for PC)
+- Control (will play on xbox game pass for PC)
+- Touhou Luna Nights (will play on xbox game pass for PC)
+
 ## Games Being Played Now
 
 - Rimworld
 - Raging Loop
 - Noita
+- The Curse of Monkey Island
 
 ### On hold
 
@@ -174,6 +182,8 @@ There are enough games by/involving Uchikoshi that I made a section for it
 - Dark Messiah of Might and Magic
 
 ## Full Games List (date order)
+
+- Frog Detective 1 & 2
 
 - Minit
 
