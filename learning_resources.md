@@ -12,9 +12,21 @@
 
 ## Electronics
 
+### Useful Libraries and Programs
+
+- [JLCKicadTools](https://github.com/matthewlai/JLCKicadTools) - Useful if using Kicad + JLCPCB's assembly service
+
+### PCB Manufacturing and Assembly
+
+- [Aisler PCB manufacture and Assembly](https://aisler.net/help/getting-started/pricing) - Prototype quantity PCBs manufactured/assembled in Europe or the US (2 or 4 layer)
+- [OSHPark](https://oshpark.com/) - PCBs manufactured in the US (ENIG only, 4 layer, flex)
+- [JLCPCB](https://jlcpcb.com/) -  PCBs manufactured/assembled in China
+- [PCBWAY](https://www.pcbway.com/) - PCBs manufactured/assembled in China
+
 ### Youtube Channels
 
 - https://www.youtube.com/c/MicroTypeEngineering
+
 ### PCB Design
 
 #### Grounding & Return Paths
@@ -26,6 +38,7 @@
 #### Misc
 
 - [Altium - How to design Castellated Modules - OnTrack Whiteboard Series](https://www.youtube.com/watch?v=Ry69DIVTOsI)
+- [Renesas - Detecting Bus Signals Correctly with Failsafe Biased RS-485 Receivers](https://www.renesas.com/us/en/document/oth/tb509-detecting-bus-signals-correctly-failsafe-biased-rs-485-receivers?language=en)
 
 ### Electromagnetic Compatability (EMC, EMI, ESD)
 
@@ -38,3 +51,8 @@
 ### STM32
 
 - [Tutorial: Timers and PWM (and a cheeky AM radio transmission) using STM32CubeIDE](https://01001000.xyz/2020-10-24-Tutorial-STM32CubeIDE-Timers-PWM-AM-Radio/)
+
+### MCUBoot
+
+- [MCUboot Walkthrough and Porting Guide](https://interrupt.memfault.com/blog/mcuboot-overview) ([Interrupt](https://interrupt.memfault.com))
+- [Updating device firmware using DFU in Zephyr Project on a FRDM-K64F board](https://hub.mender.io/t/updating-device-firmware-using-dfu-in-zephyr-project-on-a-frdm-k64f-board/1618)
