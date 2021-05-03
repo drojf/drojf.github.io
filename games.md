@@ -6,13 +6,15 @@
 - Yakuza 3-5 (will play on xbox game pass for PC)
 - Control (will play on xbox game pass for PC)
 - Touhou Luna Nights (will play on xbox game pass for PC)
+- Spiritfarer (will play on xbox game pass for PC)
+- Nier Replicant
+- Disco Elysium
 
 ## Games Being Played Now
 
 - Rimworld
 - Raging Loop
 - Noita
-- The Curse of Monkey Island
 
 ### On hold
 
@@ -23,6 +25,7 @@
 - Symphonic Rain (VN) (on hold)
 - Disgaea 5
 - Opus Magnum
+- The Curse of Monkey Island
 
 ## Favorite 'Free' games
 
@@ -184,6 +187,8 @@ There are enough games by/involving Uchikoshi that I made a section for it
 ## Full Games List (date order)
 
 - Frog Detective 1 & 2
+
+- Yakuze 7 (Yakuza: Like a Dragon)
 
 - Minit
 
