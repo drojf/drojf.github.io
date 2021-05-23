@@ -40,6 +40,12 @@ Most of the items on this list are plant based, which increases the chances that
 
 - Home made soymilk (with a soymilk making machine)
 
+## Spicy
+
+- chilli oil
+- wasabi
+- mustard
+
 ## Misc
 
 - Chocolate (shelf-stable)

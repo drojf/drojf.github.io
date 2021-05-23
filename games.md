@@ -31,10 +31,6 @@
 
 Games are vaguely ordered in how much they are worth your time.
 
-- [**Juniper's Knot (Steam Page)**](https://store.steampowered.com/app/687590/Junipers_Knot/) - Highly Recommended
-  - A short, English visual novel. Can finish in one sitting (20-40mins? not sure how long). Should be played in the middle of the night with the lights off with decent headphones/speakers (it's NOT a horror game - this is just for setting the atmosphere). For PC AND iOS!
-  - [Non-steam download page](http://junipersknot.dischan.org/)
-
 - [**Cave Story**](https://www.cavestory.org/) \- Highly Recommended
   - Platformer with similar game mechanics to Metroid (or so I hear). I really enjoyed this game. After you have finished it, read a guide for extras/easter eggs
   - There is a version on Switch/Steam with upgraded graphics, but many prefer the original free version. The steam version is [here](https://store.steampowered.com/app/200900/Cave_Story/) (not free!)
@@ -179,12 +175,18 @@ There are enough games by/involving Uchikoshi that I made a section for it
   - The slow, deliberate cutscenes/endings are amazing too
   - Somehow feels much "bigger" than it is/should be? Perhaps it evokes the imagination to fill in the gaps more than most media can.
 
+- [**Juniper's Knot (Steam Page)**](https://store.steampowered.com/app/687590/Junipers_Knot/) (Free)
+  - A short, English visual novel. Can finish in one sitting (40mins? not sure how long). Should be played in the middle of the night with the lights off with decent headphones/speakers (it's NOT a horror game - this is just for setting the atmosphere). For PC AND iOS!
+  - [Non-steam download page](http://junipersknot.dischan.org/)
+
 ### Arkane Studios
 
 - Dishonored 1/2
 - Dark Messiah of Might and Magic
 
 ## Full Games List (date order)
+
+- [What Remains of Edith Finch](https://store.steampowered.com/app/501300/What_Remains_of_Edith_Finch/) (23/05/2021)
 
 - Frog Detective 1 & 2
 
