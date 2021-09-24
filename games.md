@@ -2,19 +2,24 @@
 
 ## Wishlist
 
+- Shadow of Memories (PS2 - made by same person as Time Hollow?) - For a spoilery review, see: https://www.youtube.com/watch?v=oyo67n8nQoY
+- Time Hollow (Nintendo DS)
+- Hotel Dusk: Room 215 (Nintendo DS)
 - 13 Sentinels: Aegis Rim (This is currently a PS4 exclusive, and I don't havea PS4)
 - Yakuza 3-5 (will play on xbox game pass for PC)
 - Control (will play on xbox game pass for PC)
-- Touhou Luna Nights (will play on xbox game pass for PC)
-- Spiritfarer (will play on xbox game pass for PC)
 - Nier Replicant
 - Disco Elysium
 
 ## Games Being Played Now
 
-- Rimworld
+I got xbox game pass again so will work through some of the games on that.
+
+- Myst
+- Spiritfarer
 - Raging Loop
-- Noita
+- SnowRunner
+- Touhou Luna Nights
 
 ### On hold
 
@@ -26,6 +31,8 @@
 - Disgaea 5
 - Opus Magnum
 - The Curse of Monkey Island
+- Rimworld
+- Noita
 
 ## Favorite 'Free' games
 
@@ -179,12 +186,9 @@ There are enough games by/involving Uchikoshi that I made a section for it
   - A short, English visual novel. Can finish in one sitting (40mins? not sure how long). Should be played in the middle of the night with the lights off with decent headphones/speakers (it's NOT a horror game - this is just for setting the atmosphere). For PC AND iOS!
   - [Non-steam download page](http://junipersknot.dischan.org/)
 
-### Arkane Studios
-
-- Dishonored 1/2
-- Dark Messiah of Might and Magic
-
 ## Full Games List (date order)
+
+- Deathloop
 
 - [What Remains of Edith Finch](https://store.steampowered.com/app/501300/What_Remains_of_Edith_Finch/) (23/05/2021)
 
