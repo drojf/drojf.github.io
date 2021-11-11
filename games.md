@@ -10,6 +10,8 @@
 - Control (will play on xbox game pass for PC)
 - Nier Replicant
 - Disco Elysium
+- Webbed
+- [Obsidian](https://en.wikipedia.org/wiki/Obsidian_(1997_video_game)) 
 
 ## Games Being Played Now
 
@@ -108,11 +110,6 @@ Games are vaguely ordered in how much they are worth your time.
 - [**Antichamber**](https://store.steampowered.com/app/219890/Antichamber/) - Recommended
   - First person mind bending puzzle game. Often on sale on steam.
 
-- [**Finding Paradise**](https://store.steampowered.com/app/337340/Finding_Paradise/) - Recommended
-  - Sequel to 'To the Moon'. Definitely worth a look if you played the first game.
-  - "A story-driven experience about two doctors traversing through a dying man's memories to artificially fulfill his last wish"
-  - I recommend this to pretty much everyone. Mainly a story driven experience.
-
 - [**Yakuza 0**](https://store.steampowered.com/app/638970/Yakuza_0/) - Recommended
   - Well worth the $20 USD price, a good bit of fun and entertaining/dramatic story. However, I didn't the older games nearly as much as this prequel.
   - Often on sale which makes it even more worth it.
@@ -146,6 +143,14 @@ Games are vaguely ordered in how much they are worth your time.
     - If you find the "voice emotes" annoying, you can disable them in the menu (but I got used to it and left it on)
     - There is a "Mature Content" option - this only uncensors swear words and enables some voice emotes with swear words - doesn't add/change any content.
 
+- [The Forgotten City](https://store.steampowered.com/app/874260/The_Forgotten_City/)
+  - A short (8-10 hour) first-person mystery game
+  - Probably best to go in blind, trailers seem a bit spoilery
+  - Recommended if on sale (or if you can play it on Xbox game pass for free)
+  - Was originally a Skyrim mod, but eventuallyw as made into a standalone game
+  - Fully voiced, very good graphics (if your computer allows it), presentation is overall very good
+  - While I do like this game, it does feel a little shallow because the game is short, and there are so many characters to talk to/ground to cover during that time, but I do like it overall.
+
 ### Uchikoshi Games
 
 There are enough games by/involving Uchikoshi that I made a section for it
@@ -172,6 +177,16 @@ There are enough games by/involving Uchikoshi that I made a section for it
   - Would not suggest to people who are new to general science fiction themes/ideas as it may be....confusing
   - This is just one game in the 'infinity' series: "_[Never 7: The End of Infinity](http://en.wikipedia.org/w/index.php?title=Never_7:_The_End_of_Infinity&action=edit&redlink=1 "Never 7: The End of Infinity (page does not exist)")_,_[Remember 11: The Age of Infinity](http://en.wikipedia.org/wiki/Remember_11:_The_Age_of_Infinity "Remember 11: The Age of Infinity")_, _[12Riven ―the Ψcliminal of integral―](http://en.wikipedia.org/wiki/12Riven_%E2%80%95the_%CE%A8climinal_of_integral%E2%80%95 "12Riven ―the Ψcliminal of integral―")_, and _[Code_18](http://en.wikipedia.org/wiki/Code_18 "Code 18")" -from wikipedia_
 
+# Freebird Games
+
+- [**Finding Paradise**](https://store.steampowered.com/app/337340/Finding_Paradise/) - Recommended
+  - Sequel to 'To the Moon'. Definitely worth a look if you played the first game.
+  - "A story-driven experience about two doctors traversing through a dying man's memories to artificially fulfill his last wish"
+  - I recommend this to pretty much everyone. Mainly a story driven experience.
+
+- Imposter Factory
+  - You really should play as many of the previous games before playing this game (including the minisodes)
+
 ## Honorable Mentions
 
 - Void Bastards
@@ -188,7 +203,23 @@ There are enough games by/involving Uchikoshi that I made a section for it
 
 ## Full Games List (date order)
 
+- The Forgotten City
+
+- Finiding Paradise
+
+- Outer Wilds DLC (Echoes of the Eye)
+
+- Stories Untold (Watched a stream, did not play)
+  - Too scary for me to play
+  - Above all else, I really appreciate how immersive the game was
+  - Although some of the gameplay parts are janky, when it works it was really good
+  - Not everyone will like the story, but it's extremely well put together, and has lots of foreshadowing and back references which I like
+
+- Superliminal
+
 - Deathloop
+
+- Twelve Minutes (Watched a stream, did not play)
 
 - [What Remains of Edith Finch](https://store.steampowered.com/app/501300/What_Remains_of_Edith_Finch/) (23/05/2021)
 
