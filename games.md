@@ -9,15 +9,16 @@
 - Yakuza 3-5 (will play on xbox game pass for PC)
 - Control (will play on xbox game pass for PC)
 - Nier Replicant
-- Disco Elysium
 - Webbed
 - [Obsidian](https://en.wikipedia.org/wiki/Obsidian_(1997_video_game)) 
+- Myst 25th Anniversary Collection (maybe)
 
 ## Games Being Played Now
 
 I got xbox game pass again so will work through some of the games on that.
 
-- Myst
+- Scarlet Nexus
+- The Good Life
 - Spiritfarer
 - Raging Loop
 - SnowRunner
@@ -177,7 +178,7 @@ There are enough games by/involving Uchikoshi that I made a section for it
   - Would not suggest to people who are new to general science fiction themes/ideas as it may be....confusing
   - This is just one game in the 'infinity' series: "_[Never 7: The End of Infinity](http://en.wikipedia.org/w/index.php?title=Never_7:_The_End_of_Infinity&action=edit&redlink=1 "Never 7: The End of Infinity (page does not exist)")_,_[Remember 11: The Age of Infinity](http://en.wikipedia.org/wiki/Remember_11:_The_Age_of_Infinity "Remember 11: The Age of Infinity")_, _[12Riven ―the Ψcliminal of integral―](http://en.wikipedia.org/wiki/12Riven_%E2%80%95the_%CE%A8climinal_of_integral%E2%80%95 "12Riven ―the Ψcliminal of integral―")_, and _[Code_18](http://en.wikipedia.org/wiki/Code_18 "Code 18")" -from wikipedia_
 
-# Freebird Games
+## Freebird Games
 
 - [**Finding Paradise**](https://store.steampowered.com/app/337340/Finding_Paradise/) - Recommended
   - Sequel to 'To the Moon'. Definitely worth a look if you played the first game.
@@ -186,6 +187,14 @@ There are enough games by/involving Uchikoshi that I made a section for it
 
 - Imposter Factory
   - You really should play as many of the previous games before playing this game (including the minisodes)
+
+## Need Writeup
+
+I have played these games and would like to write something about them, but haven't got around to it yet.
+
+- The Sexy Brutale
+- Disco Elysium
+- The return of the Obra Dinn
 
 ## Honorable Mentions
 
@@ -202,6 +211,14 @@ There are enough games by/involving Uchikoshi that I made a section for it
   - [Non-steam download page](http://junipersknot.dischan.org/)
 
 ## Full Games List (date order)
+
+- The Sexy Brutale
+
+- Disco Elysium
+
+- The return of the Obra Dinn
+
+- Myst
 
 - The Forgotten City
 
