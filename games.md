@@ -10,19 +10,20 @@
 - Control (will play on xbox game pass for PC)
 - Nier Replicant
 - Webbed
-- [Obsidian](https://en.wikipedia.org/wiki/Obsidian_(1997_video_game)) 
 - Myst 25th Anniversary Collection (maybe)
 
 ## Games Being Played Now
 
 I got xbox game pass again so will work through some of the games on that.
 
+- [Obsidian](https://en.wikipedia.org/wiki/Obsidian_(1997_video_game))
 - Scarlet Nexus
 - The Good Life
 - Spiritfarer
 - Raging Loop
 - SnowRunner
 - Touhou Luna Nights
+- Noita
 
 ### On hold
 
@@ -35,7 +36,6 @@ I got xbox game pass again so will work through some of the games on that.
 - Opus Magnum
 - The Curse of Monkey Island
 - Rimworld
-- Noita
 
 ## Favorite 'Free' games
 
@@ -151,6 +151,15 @@ Games are vaguely ordered in how much they are worth your time.
   - Was originally a Skyrim mod, but eventuallyw as made into a standalone game
   - Fully voiced, very good graphics (if your computer allows it), presentation is overall very good
   - While I do like this game, it does feel a little shallow because the game is short, and there are so many characters to talk to/ground to cover during that time, but I do like it overall.
+
+- [Metal Gear Rising: Revengeance](https://store.steampowered.com/app/235460/METAL_GEAR_RISING_REVENGEANCE/) (often 75% off!)
+  - A short (7-10hrs?? without DLC), fun action game with memes
+  - I didn't realize the game had/comes with the DLC - don't forget that after you finish the game!
+  - Don't forget to get the weapon enhancements for your desired weapon (I beat the game...without realizing you could upgrade your weapon...)
+  - For precise cutting, you can adjust the blade angle with right stick and press X to slash. I'm actually still not sure how you're meant to cut precisely otherwise, maybe my controller is not so good...
+  - Play this if you want a fun adrenaline game you can drop in/out of (thanks to heaps of quicksaves), but be prepared to get invested at the boss fights and near the end of the game.
+  - This game was originally designed for a controller
+  - You'll want to learn most of the game mechanics, as they will all eventually be used and/or make your life easier
 
 ### Uchikoshi Games
 
