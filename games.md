@@ -156,7 +156,9 @@ Games are vaguely ordered in how much they are worth your time.
   - A short (7-10hrs?? without DLC), fun action game with memes
   - I didn't realize the game had/comes with the DLC - don't forget that after you finish the game!
   - Don't forget to get the weapon enhancements for your desired weapon (I beat the game...without realizing you could upgrade your weapon...)
-  - For precise cutting, you can adjust the blade angle with right stick and press X to slash. I'm actually still not sure how you're meant to cut precisely otherwise, maybe my controller is not so good...
+  - I was confused as to how the free slice worked exactly:
+    - You don't need to "swing the stick" to slice, you can just pull your right stick to the direction you want, then release the stick and let the stick go back to the center position (executing the slice). This is necessary for precise slicing.
+    - Also remember that you can move the camera in slice mode with the left stick
   - Play this if you want a fun adrenaline game you can drop in/out of (thanks to heaps of quicksaves), but be prepared to get invested at the boss fights and near the end of the game.
   - This game was originally designed for a controller
   - You'll want to learn most of the game mechanics, as they will all eventually be used and/or make your life easier
