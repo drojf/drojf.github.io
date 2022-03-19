@@ -170,9 +170,11 @@ There are enough games by/involving Uchikoshi that I made a section for it
 - [**AI: The Somnium Files**](https://store.steampowered.com/app/948740/AI_The_Somnium_Files/) - Recommended as a first Uchikoshi game, see below
   - One of my biggest concerns about Uchikoshi games has been accessibility - annoying puzzles or a long winded story can quickly put you off.
     - While the game has puzzles, most (with the exception of one) can be figured out by trial and error. The puzzles inherently tie in with the story, which makes them feel more meaningful.
-    - Assuming you follow the left hand side path first, the story is fairly hooking. For this reason many people recommend the left hand path first.
     - The story is not *too* convoluted
-  - NOTE1: You can use the map in somniums! This is not directly mentioned, so I played the entire game without using it, when it's actually very useful.
+  - People often have recommendations for the first major choice in the game. In the long run it doesn't matter, but if you want to know, see the below two dot points.
+    - If you're the type of person who gets bored easily or think you might not finish the game, follow the left hand side path first.
+    - If you're the type of person who's in it for the long run, you can try the right side first.
+  - NOTE1: You can use the map in somniums! This is easy to forget, so I played the entire game without using it, making somniums more difficult.
   - NOTE2: I highly recommend using English voices.
   - Extra: As part of marketing for the game, there was a Youtube channel setup: [Lemniscate English](https://www.youtube.com/channel/UCxYoH_UNbIKP1xnsTx9m5Gw) , and twitter accounts @Lemniscate_Aset and @Ota_Matsushita. May be worth checking out after you finish the game - I don't think there are any major spoilers, but I wouldn't risk it.
   - I'll shill my own [fps camera mod](https://github.com/drojf/ai_somnium_fps_camera) mod for the game (use after finishing the game)
