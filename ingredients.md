@@ -1,7 +1,5 @@
 # Ingredients
 
-Most of the items on this list are plant based, which increases the chances that people with food allergies can have them, as well as people who are vegetarian/vegan/can't have for religious reasons.
-
 ## Emergency/Shelf Stable food list
 
 - [ready.gov list](https://www.ready.gov/food)
@@ -14,11 +12,11 @@ Most of the items on this list are plant based, which increases the chances that
 - Potato/Sweet Potato (can be stored in a cool place for quite a while)
 - Bread
 - Various cereals
-- Oats/Muesli (rolled oats soaked overnight are easy)
+- Oats/Muesli (rolled oats soaked overnight are easy, or microwave for 30-60s to cook)
 
 ## Protein
 
-- Tempeh
+- Tempeh and Tofu
 - Yeast Flakes/Nutritional Yeast (shelf-stable)
 - Chickpeas (shelf-stable)
 
@@ -34,7 +32,9 @@ Most of the items on this list are plant based, which increases the chances that
 - Miso Paste (try the different types)
 - Various pickled things (shelf stable)
 - Jam
-- "Vegan Mayonnaise" is usually ok
+- Sesame Seeds
+- Sesame Oil
+- Vegan burger sauce/Mayonnaise tastes pretty similar to the non-vegan counterparts
 
 ## Drinks
 
@@ -44,7 +44,10 @@ Most of the items on this list are plant based, which increases the chances that
 
 - chilli oil
 - wasabi
-- mustard
+- mustard (try wholegrain mustard if you haven't had it before)
+
+## Pickled stuff
+- An pickled vegetables really...
 
 ## Misc
 
