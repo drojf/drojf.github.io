@@ -34,6 +34,20 @@
 </ul>
 </h2>
 
+<h2>Fix Windows 11 .ogg files causing slow folder loading</h2>
+
+<p><a href="https://twitter.com/timonsku/status/1764306103720989115">This tweet by @timonsku</a> explains slow .ogg and other file access is due to Windows Explorer's <code>FolderType</code> auto discovery. To disable it / fix the problem, you have two options:</p>
+
+<h3>Option 1: Fix by Installing Registry File</h3>
+<p>Install this .reg file: <a href="https://gist.githubusercontent.com/timonsku/04809a3ac0db2af0b561879b6940f762/raw/f00d7aa919e17ac2996df1b21970c4ce5b3c5a9b/disable-folder-discovery.reg">Github Gist .reg file</a> (<strong>Right Click->Save As</strong>).</p>
+<p>Make sure to visually inspect the registry file before you install it!</p>
+
+<h3>Option 2: Fix by Manually Editing Registry</h3>
+<ul>
+	<li>Open Regedit and navigate to <code>[HKEY_CURRENT_USER\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\AllFolders\Shell]</code></li> 
+	<li>Create new String value named <code>FolderType</code> and set its value to <code>NotSpecified</code></li>
+</ul>
+
 <h2 id="news">News</h2>
 <ul>
 <li>Added mirror of ONscripter Tools (2010-09-15 release)</li>
