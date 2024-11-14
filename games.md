@@ -1,5 +1,9 @@
 # Games List
 
+## To Play
+
+- TenkaRanRPG
+
 ## Wishlist
 
 - Shadow of Memories (PS2 - made by same person as Time Hollow?) - For a spoilery review, see: https://www.youtube.com/watch?v=oyo67n8nQoY
