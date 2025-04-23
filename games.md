@@ -2,7 +2,15 @@
 
 ## To Play
 
+Listed in order of "I want to play it"
+
+- The Hundred Line: Last Defense Academy
+- No Sleep for Kaname Date (AI Somnium Files)
+- Blue Prince
+- Nier Replicant
+- Raging Loop
 - TenkaRanRPG
+- [Obsidian](https://en.wikipedia.org/wiki/Obsidian_(1997_video_game))
 
 ## Wishlist
 
@@ -20,17 +28,15 @@
 
 I got xbox game pass again so will work through some of the games on that.
 
-- [Obsidian](https://en.wikipedia.org/wiki/Obsidian_(1997_video_game))
-- Scarlet Nexus
-- The Good Life
-- Spiritfarer
-- Raging Loop
-- SnowRunner
-- Touhou Luna Nights
-- Noita
 
 ### On hold
 
+- Scarlet Nexus
+- Spiritfarer
+- SnowRunner
+- Touhou Luna Nights
+- Noita
+- The Good Life
 - Trails in the Sky 2
 - Fata Morgana
 - Marquess of Notoriety Demo
