@@ -4,8 +4,9 @@
 
 Listed in order of "I want to play it"
 
-- The Hundred Line: Last Defense Academy
-- No Sleep for Kaname Date (AI Somnium Files)
+- Shuten Order
+  - Directed by Nakazawa Takumi (Remember11, Root Double) and planned by Kodaka Kazutaka (Danganronpa, Hundred Line)
+  - A collaboration between Too Kyo Games and DMM, it combines five games of different genres, from escape game to stealth action
 - Blue Prince
 - Nier Replicant
 - Raging Loop
@@ -26,8 +27,7 @@ Listed in order of "I want to play it"
 
 ## Games Being Played Now
 
-I got xbox game pass again so will work through some of the games on that.
-
+- No Sleep for Kaname Date (AI Somnium Files) - Main story completed, need to do extra bits.
 
 ### On hold
 
@@ -234,6 +234,10 @@ I have played these games and would like to write something about them, but have
   - [Non-steam download page](http://junipersknot.dischan.org/)
 
 ## Full Games List (date order)
+
+- No Sleep for Kaname Date (AI Somnium Files) (still need to complete extras though)
+
+- The Hundred Line: Last Defense Academy
 
 - The Sexy Brutale
 
